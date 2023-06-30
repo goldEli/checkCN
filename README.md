@@ -1,0 +1,2 @@
+# checkCN
+check chinese
